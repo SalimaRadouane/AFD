@@ -1,1 +1,4 @@
 # AFD
+Le projet consiste à développer une application graphique en Java pour la manipulation des automates finis. Un automate fini est un modèle mathématique utilisé pour décrire un processus ou un système qui peut être représenté par un ensemble d'états et de transitions entre ces états. Les automates finis sont utilisés dans divers domaines, tels que la théorie des langages formels, l'analyse lexicale et la reconnaissance de formes.
+L'application doit permettre la création d'automates finis déterministes ou non déterministes, la reconnaissance d'un mot par un AFD, la génération de tous les mots acceptés par un AFD et dont la longueur est inférieure à une limite donnée, la déterminisation des AFND par la
+construction de Thompson, la minimisation des AFD par l'algorithme de Hopcroft, la construction des AFD de la réunion, de l'intersection, du complémentaire et de l'image miroir, et le calcul d'une expression régulière équivalente à un AFD par l'algorithme BMC.
